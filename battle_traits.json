@@ -226,6 +226,13 @@
         "description": "If one or more friendly fighters with this battle trait are on the battlefield, each time an enemy fighter suffers impact damage, subtract 2 from the dice roll, to a minimum of 1.",
         "runemarks": []
     },
+	{
+		"name": "Helsmiths of Hashut Battle Trait",
+		"warband": "Helsmiths of Hashut",
+		"cost": "battle_trait",
+		"description": "At the start of each battle round, gain a number of daemonic power points (DPP) equal to the number of friendly desolation tokens on the battlefield (see the 'Leave the Land in Ruin' ability).\nAt the start of a friendly fighter's activation, if that fighter has the Helsmiths of Hashut and Warrior runemarks, you can spend up to 3 DPP on that fighter. If you do so, apply the corresponding effects below to that fighter's first attack action made that activation. The effects are cumulative (for example, if you spent 3 DPP on that fighter, all the effects would apply to them).\n 1 DPP – If it is a melee attack action, add 1 to the damage points allocated by each critical hit from that attack action. If it is a missile attack action, add 1 to the damage points allocated by a single critical hit from that attack action.\n2 DPP – Add 1 to the Strength characteristic of that attack action.\n3 DPP – Add 1 to the Attacks characteristic of that attack action.",
+		"runemarks": []
+	},
     {
         "name": "We Make War",
         "warband": "Iron Golems",
